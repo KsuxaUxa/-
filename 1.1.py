@@ -1,3 +1,4 @@
+
 # Python
 # дз
 duration = int(input('Введите количество секунд'))

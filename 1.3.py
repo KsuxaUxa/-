@@ -1,3 +1,4 @@
+print('Задание №3')
 for i in range(100):
     new_str=str(i+1)
     new_list = list(new_str)
